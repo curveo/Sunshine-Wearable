@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#1CA8F4</color>
+    <color name="background2">#106492</color>
+    <color name="digital_text">#ffffff</color>
+
+    <!-- the color used for the low temperature in the forecast list -->
+    <color name="digital_text_subtext">#6DC4F5</color>
+
+</resources>
